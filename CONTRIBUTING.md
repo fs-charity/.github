@@ -12,4 +12,4 @@ documentation, or to help out in any other way.
 
 We communicate primarily over GitHub and [Discord]([Discord](https://discord.gg/r7TaetxQNW)).
 
-_See also: [Flutter's code of conduct](CODE_OF_CONDUCT.md)_
+_See also: [Code of conduct](CODE_OF_CONDUCT.md)_
